@@ -11,6 +11,8 @@
 - 😄 Pronouns: Sher/ Her
 - 💻 *#CodeLikeAGirl*
 
+<a href="https://www.instagram.com/iasminimp/"><img src="https://img.shields.io/twitter/url?color=purple&label=Instagram&logo=instagram&style=social"/></a>
+
 <!--
 **iasminimp/iasminimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +27,9 @@ AWS in the ...
 - ⚡ Fun fact: she/her
 - 🤔 I’m looking for help with Backend, I love FrontEnd s2
 - #CodeLikeAGirl 
+- [[Instagram]https://img.shields.io/twitter/url?color=purple&label=Instagram&logo=instagram&style=social](https://www.instagram.com/iasminimp/)
+
+[![Rocket Profile](https://img.shields.io/static/v1?label=Rocketseat&message=Profile&colorA=purple&color=black&logo=Rocket&logoColor=white)](https://app.rocketseat.com.br/me/elyabe)
+
+
 -->
