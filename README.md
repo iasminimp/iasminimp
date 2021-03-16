@@ -11,7 +11,7 @@
 - 😄 Pronouns: Sher/ Her
 - 💻 *#CodeLikeAGirl*
 
-<a href="https://www.instagram.com/iasminimp/"><img src="https://img.shields.io/twitter/url?color=purple&label=Instagram&logo=instagram&style=social"/></a>
+ <a href="https://www.linkedin.com/in/iasmin-marques-b08906128/"><img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin"/></a>       <a href="https://www.instagram.com/iasminimp/"><img src="https://img.shields.io/twitter/url?color=purple&label=Instagram&logo=instagram&logoColor=nothing&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fiasminimp%2F"/></a>       
 
 <!--
 **iasminimp/iasminimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
