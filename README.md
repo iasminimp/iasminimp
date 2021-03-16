@@ -3,7 +3,7 @@
 - 📚 I’m currently studying, Computer Cience at UFES
 - 🚀 I'm working at Adapti as a Software Developer;
 - 😄 You can see my profile on LinkedIn: https://www.linkedin.com/in/iasmin-marques-b08906128/
-- 📝 I write somethings, sometimes: ##https://medium.com/@iasminimp7
+- 📝 I write somethings, sometimes: https://medium.com/@iasminimp7
 - 🤔 I’m looking for help with Backend, I love FrontEnd s2
 - 😄 Pronouns: Sher/ Her
 - 📫 How to reach me: iasminimp@gmail.com
