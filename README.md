@@ -3,12 +3,12 @@
 
 - 📚 I’m currently studying, **Computer Cience at UFES**
 - 🚀 I'm working at **[Adapti](https://www.adapti.info/)** as a **Software Developer (Web DEV)**
-- 😄 You can see my profile on [LinkedIn](https://www.linkedin.com/in/iasmin-marques-b08906128/)
-- 📝 I write somethings, sometimes on [Medium](https://medium.com/@iasminimp7)
-- 📫 How to reach me: iasminimp7@gmail.com
+- 😄 You can see my profile on [**LinkedIn**](https://www.linkedin.com/in/iasmin-marques-b08906128/)
+- 📝 I write somethings, sometimes on [**Medium**](https://medium.com/@iasminimp7)
+- 📫 How to reach me: *iasminimp7@gmail.com*
 - 🎥 I love music and watching movies & series :black_heart:
 - 😄 Pronouns: Sher/ Her
-- 💻 #CodeLikeAGirl
+- 💻 *#CodeLikeAGirl*
 
 <!--
 **iasminimp/iasminimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
