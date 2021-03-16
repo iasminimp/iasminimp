@@ -5,6 +5,7 @@
 - 🚀 I'm working at **[Adapti](https://www.adapti.info/)** as a **Software Developer (Web DEV)**
 - 😄 You can see my profile on [**LinkedIn**](https://www.linkedin.com/in/iasmin-marques-b08906128/)
 - 📝 I write somethings, sometimes on [**Medium**](https://medium.com/@iasminimp7)
+- ⚡ I’m looking for help with back-end, I love front-end s2
 - 📫 How to reach me: *iasminimp7@gmail.com*
 - 🎥 I love music and watching movies & series :black_heart:
 - 😄 Pronouns: Sher/ Her
