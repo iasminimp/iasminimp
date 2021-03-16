@@ -24,7 +24,6 @@ AWS in the ...
 - 😄 Pronouns: Sher/ Her
 - ⚡ Fun fact: she/her
 - 🤔 I’m looking for help with Backend, I love FrontEnd s2
-- #CodeLikeAGirl 
 https://shields.io/ // site dos botões
 
 -->
