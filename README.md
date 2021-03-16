@@ -6,7 +6,7 @@
 - 📝 I write somethings, sometimes: https://medium.com/@iasminimp7
 - 😄 Pronouns: Sher/ Her
 - 📫 How to reach me: iasminimp@gmail.com
-- ![image](https://user-images.githubusercontent.com/50635721/111241961-f5ea3b80-85dc-11eb-8043-a4a484293258.png)
+- 💻 #CodeLikeAGirl
 
 <!--
 **iasminimp/iasminimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
