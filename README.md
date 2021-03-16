@@ -2,10 +2,11 @@
 
 - 📚 I’m currently studying, Computer Cience at UFES
 - 🚀 I'm working at Adapti as a Software Developer (Web DEV);
-- 😄 You can see my profile on LinkedIn: linkedin.com/in/iasmin-marques
+- 😄 You can see my profile on LinkedIn: linkedin.com/in/iasmin-marques-b08906128/
 - 📝 I write somethings, sometimes: medium.com/@iasminimp7
 - 😄 Pronouns: Sher/ Her
 - 📫 How to reach me: iasminimp@gmail.com
+- 🎥 I love watching movies and series :black_heart:
 - 💻 #CodeLikeAGirl
 
 <!--
