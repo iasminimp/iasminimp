@@ -1,6 +1,6 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-## Hi Guys, my name is Iasmin...Welcome to my Github 👋
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi Guys, my name is Iasmin...Welcome to my Github 👋
 
 
 - 📚 I’m currently studying, **Computer Science at UFES**
