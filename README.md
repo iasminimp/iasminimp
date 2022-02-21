@@ -10,7 +10,7 @@
 - ⚡ I’m looking for help with back-end, I love front-end s2
 - 📫 How to reach me: *iasminimp7@gmail.com*
 - 🎥 I love music and watching movies & series :black_heart:
-- 😉 Pronouns: Sher/ Her
+- 😉 Pronouns: She/ Her
 - 💻 *#CodeLikeAGirl*
 - 📍 Brazil, ES
 - 🖱 Take a look in my web site: https://www.iasminmarques.com.br/ s2
